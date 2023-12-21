@@ -35,7 +35,7 @@ This project provides a Graphical User Interface (GUI) built with Tkinter to gen
 
 2. Execute the main Python script to launch the Tkinter GUI:
     ```bash
-    python main.py
+    python WebsiteTrafficGenerater.py
     ```
 
 3. Once the GUI appears, you can input the URL `https://your-website-url.com` and configure other traffic generation settings as needed.
