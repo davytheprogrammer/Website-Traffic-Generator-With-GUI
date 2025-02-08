@@ -46,7 +46,7 @@ This project provides a Graphical User Interface (GUI) built with Tkinter to gen
 
 If you encounter any issues or have questions regarding the project, please feel free to contact me directly at:
 
-📞 **Phone:** +25479609747
+📞 **Phone:** +254793609747
 
 ## Disclaimer
 
